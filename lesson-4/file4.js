@@ -1,9 +1,9 @@
 
 let admin, name;
-name = David;
+name = Davids;
 admin = name;
-alert('name');
+alert( admin );
 
-let ourPlanetName = Earth;
-let currentUserName = David;
+let ourPlanetName = "Earth";
+let currentUserName = "David";
 
